@@ -1,0 +1,48 @@
+   
+/*  Avatar Component Starts */
+.dui-avatar {
+    width: 6em;
+    height: 6rem;
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dui-avatar__img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+/* Avatar Component Starts -- Extra Large */
+.dui-avatar--xlg {
+    width: 10rem;
+    height: 10rem;
+}
+/*  Avatar Component Ends -- Extra Large */
+
+
+/* Avatar Component Starts -- Large */
+.dui-avatar--lg {
+    width: 8rem;
+    height: 8rem;
+}
+/*  Avatar Component Ends -- Large */
+
+
+/* Avatar Component Starts -- Medium */
+.dui-avatar--md {
+    width: 6rem;
+    height: 6rem;
+}
+/*  Avatar Component Ends -- Medium */
+
+
+/* Avatar Component Starts -- Small */
+.dui-avatar--sm {
+    width: 3rem;
+    height: 3rem;
+}
+/* Avatar Component Ends -- Small */
